@@ -1,0 +1,15 @@
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\bin\Debug\ThrInj.dll
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\bin\Debug\ThrInj.pdb
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\bin\Debug\EasyHook.dll
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\obj\Debug\ThrInj.dll
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\obj\Debug\ThrInj.pdb
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\obj\Debug\ThrInj.csprojResolveAssemblyReference.cache
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\bin\Debug\ThrInj_Con.exe
+c:\users\zac\documents\visual studio 2013\Projects\ThrInj\ThrInj\bin\Debug\ThrInj_Con.pdb
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\obj\Debug\ThrInj.csprojResolveAssemblyReference.cache
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\bin\Debug\ThrInj.dll
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\bin\Debug\ThrInj.pdb
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\bin\Debug\ThrInj_Con.exe
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\bin\Debug\ThrInj_Con.pdb
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\obj\Debug\ThrInj.dll
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrInj\obj\Debug\ThrInj.pdb

@@ -1,0 +1,8 @@
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\bin\Debug\ThrBox_UI.exe
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\bin\Debug\ThrBox_UI.pdb
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\obj\Debug\ThrBox_UI.csprojResolveAssemblyReference.cache
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\obj\Debug\ThrBox_UI.Form1.resources
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\obj\Debug\ThrBox_UI.Properties.Resources.resources
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\obj\Debug\ThrBox_UI.csproj.GenerateResource.Cache
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\obj\Debug\ThrBox_UI.exe
+C:\Users\Zac\Dropbox\SandBox\ThrInj\ThrBox_UI\obj\Debug\ThrBox_UI.pdb
